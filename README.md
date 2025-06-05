@@ -28,7 +28,7 @@
   <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&height=80&lines=The+story+only+I+know...+%F0%9F%93%96;Kim+Dokja's+coding+scenario+%E2%9A%94%EF%B8%8F;Rewriting+reality+through+code+%F0%9F%8C%8C;Tokyo+Glow+x+ORV+Developer+%E2%9C%A8" alt="Typing SVG" /> -->
   
   <div align="center">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=c0caf5&animation=twinkling"/>
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=c0caf5&animation=twinkling"/>
   </div>
 </div>
 
@@ -113,7 +113,7 @@ motto: "Code with purpose, debug with patience"
 ---
 -->
 
-## **Contribution**
+## 🐍 **Contribution**
 
 <div align="center">
   
