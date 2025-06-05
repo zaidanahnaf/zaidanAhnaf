@@ -1,0 +1,33 @@
+name: Generate Snake Game
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
+  push:
+    branches: [ main, master ]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+      - name: Generate Snake Game
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%237dcfff&color_dots=%231a1b26,%23292e42,%23565f89,%237aa2f7,%23bb9af7
+            dist/github-contribution-grid-snake.gif?color_snake=%237dcfff&color_dots=%231a1b26,%23292e42,%23565f89,%237aa2f7,%23bb9af7
+      - name: Push Snake Game to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "Update Snake Game 🐍✨"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
