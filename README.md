@@ -142,14 +142,14 @@ motto: "Code with purpose, debug with patience"
 <div align="center">
   
   ```
-                                  ╭─────────────────────────────────────────────────────────────────╮
-                                  │                                                                 │
-                                  │   "While others read to escape reality, I code to reshape it.   │
-                                  │    The pen of the scholar has always been mightier than the     │
-                                  │    sword of the conqueror—today, the keyboard rules kingdoms."  │
-                                  │                                                                 │
-                                  │                           - zayden -                            │
-                                  ╰─────────────────────────────────────────────────────────────────╯
+                                    ╭─────────────────────────────────────────────────────────────────╮
+                                    │                                                                 │
+                                    │   "While others read to escape reality, I code to reshape it.   │
+                                    │    The pen of the scholar has always been mightier than the     │
+                                    │    sword of the conqueror—today, the keyboard rules kingdoms."  │
+                                    │                                                                 │
+                                    │                           - zayden -                            │
+                                    ╰─────────────────────────────────────────────────────────────────╯
   ```
 
 </div>
