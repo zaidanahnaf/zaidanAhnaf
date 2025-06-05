@@ -36,7 +36,7 @@
 
 ## 🌟 **About Me**
 
-<img align="right" alt="Dhafa Pixel" width="380" src="https://github.com/zaidanahnaf/Journey-to-the-Heart/blob/main/public/assets/characters/dhafaPixel2.png">
+<img align="right" alt="Dhafa Pixel" width="300" src="https://github.com/zaidanahnaf/Journey-to-the-Heart/blob/main/public/assets/characters/dhafaPixel2.png">
 
 ```yaml
 name: "Dhafa Zaidan Ahnaf"
