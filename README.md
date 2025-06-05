@@ -113,7 +113,7 @@ motto: "Code with purpose, debug with patience"
 ---
 -->
 
-## 🐍 **Contribution**
+<!-- ## 🐍 **Contribution**
 
 <div align="center">
   
@@ -121,7 +121,7 @@ motto: "Code with purpose, debug with patience"
   
 </div>
 
----
+--- -->
 
 ## 🌐 **Connect With Me**
 
@@ -158,5 +158,11 @@ motto: "Code with purpose, debug with patience"
   
  <!-- 🎧 Background Music: [Listen on SoundCloud](https://soundcloud.com/adelynnxx/the-hills-x-where-have-you) -->
   [![Listen on SoundCloud](https://img.shields.io/badge/SoundCloud-Listen-orange?logo=soundcloud)](https://soundcloud.com/adelynnxx/the-hills-x-where-have-you)  <img src="https://komarev.com/ghpvc/?username=zaidanahnaf&label=Profile%20Views&color=7aa2f7&style=flat-square" alt="Profile Views" />
+  
+</div>
+
+<div align="center">
+  
+  ![Snake animation](https://github.com/zaidanahnaf/zaidanAhnaf/blob/output/github-contribution-grid-snake-dark.svg)
   
 </div>
