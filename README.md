@@ -117,7 +117,7 @@ motto: "Code with purpose, debug with patience"
 
 <div align="center">
   
-  ![Snake animation](https://github.com/YOUR_GITHUB_USERNAME/zaidanahnaf/blob/output/github-contribution-grid-snake-dark.svg)
+  ![Snake animation](https://github.com/zaidanahnaf/zaidanAhnaf/blob/output/github-contribution-grid-snake-dark.svg)
   
 </div>
 
