@@ -139,7 +139,6 @@ motto: "Code with purpose, debug with patience"
 </div>
 
 ---
-
 <div align="center">
   
   ```
@@ -152,6 +151,11 @@ motto: "Code with purpose, debug with patience"
 │                           - zayden -                            │
 ╰─────────────────────────────────────────────────────────────────╯
   ```
+
+</div>
+
+<div align="center">
+  
  <!-- 🎧 Background Music: [Listen on SoundCloud](https://soundcloud.com/adelynnxx/the-hills-x-where-have-you) -->
   [![Listen on SoundCloud](https://img.shields.io/badge/SoundCloud-Listen-orange?logo=soundcloud)](https://soundcloud.com/adelynnxx/the-hills-x-where-have-you)  <img src="https://komarev.com/ghpvc/?username=zaidanahnaf&label=Profile%20Views&color=7aa2f7&style=flat-square" alt="Profile Views" />
   
