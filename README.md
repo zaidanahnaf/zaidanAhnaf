@@ -144,7 +144,7 @@ motto: "Code with purpose, debug with patience"
   ```
 ╭─────────────────────────────────────────────────────────────────╮
 │                                                                 │
-│\e[3m"While others read to escape reality, I read to reshape it."\e[23m│
+│   "While others read to escape reality, I read to reshape it."  │
 │                                                                 │
 │                           - zayden -                            │
 ╰─────────────────────────────────────────────────────────────────╯
